@@ -7,7 +7,7 @@ public class NauticalMiles {
     {
         double KM_per_NM = 1.852;
         double Miles_per_NM = 1.150779;
-        double NM = 200;
+        double NM = 80;
         double km;
         double miles;
 
